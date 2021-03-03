@@ -22,7 +22,7 @@ const useStyles = makeStyles({
         marginRight: 20
     },
     submitBtn: {
-        marginLeft: 10
+        marginLeft: 15
     }
 })
 
